@@ -1,2 +1,0 @@
-# germinika
-Hello
