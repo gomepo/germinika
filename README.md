@@ -1,2 +1,2 @@
 # germinika
-Hello!
+Hello
